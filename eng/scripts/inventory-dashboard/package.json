@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "chalk": "^4.1.2",
+    "chalk": "^5.3.0",
     "csvtojson": "^2.0.10",
     "fast-xml-parser": "^4.2.5",
     "json-2-csv": "^3.18.0",
